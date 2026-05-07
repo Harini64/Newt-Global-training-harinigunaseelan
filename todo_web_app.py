@@ -1,8 +1,16 @@
 import streamlit as st
 
-def get_todos(filepath):
-    with open(filepath, "r") as file_local:
-        todos_local = file_local.readlines()
+FILEPATH = "todos.txt"
+
+def get_todos(filepath=FILEPATH):
+    try:
+        with open(filepath, "r") as file_local:
+            todos_local = file_local.readlines()
+    except FileNotFoundError:
+        with open(filepath, "w") as file_local:
+            pass
+        todos_local = []
+
     return todos_local
 
 
@@ -11,7 +19,7 @@ def write_todos(filepath, todos_arg):
     with open(filepath, "w") as file:
         file.writelines(todos_arg)
 
-FILEPATH = "todos.txt"
+
 todos =get_todos(FILEPATH)
 
 def add_todo():
