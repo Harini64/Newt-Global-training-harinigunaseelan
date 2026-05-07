@@ -1,0 +1,112 @@
+#1.Design the frontend
+#2.code the frontend
+#3.code the backend
+
+
+#todos = [] 
+   #match user_action:
+    #    case "add":
+    #        todo=input("Enter a todo: ") + "\n"
+    #        with open("todos.txt","r") as file:
+    #            todos=file.readlines()
+            #file=open('todos.txt','r')
+            #todos=file.readlines()#reads all lines and returns them as a list of strings
+            #file.close()
+    #        todos.append(todo)
+    #       with open('todos.txt','w') as file: #w means write.. r means read
+    #            file.writelines(todos)
+            #file=open('todos.txt','r')
+            #file.writelines(todos)#writes multiple lines to a file from a list
+            # .read(), .write(), one string at a time
+    #    case "show":
+    #        file=open('todos.txt','r')
+    #        todos = file.readlines()
+    #        file.close()
+            #new_todos=[]
+            #for item in todos:
+                #new_item=item.strip('\n')
+                #new_todos.append(new_item)
+            #new_todos=[item.strip('\n') for item in todos]
+            #print(todos)
+    #        for index,item in enumerate(new_todos):
+    #            item=item.strip('\n')
+                #print(index+1, " ", item.capitalize())
+    #            print(f"{index+1}-{item}")
+    #    case "edit":
+    #        number = int(input("number of the todo to edit: "))
+    #        number = number-1
+    #        with open('todo.txt','r') as file:
+    #            todos=file.readlines()
+    #        index=number-1
+    #        todo_to_remove=todos[index].strip('\n')
+    #        todos.pop(index)
+
+    #        with open('todo.txt','w') as file:
+    #            file.writelines(todos)
+
+    #        message = f"Todo {todo_to_remove} was remove from list."
+    #        print(message)
+    #    case "complete":
+    #        number = int(input("number of the todo to complete: "))
+    #        todos.pop(number-1)
+    #    case "exit":
+    #        break
+
+
+#filenames=["rawdata.txt","reports.txt","presentations.txt"]
+#for filename in filenames:
+#    filename.replace(".","-")
+#    filename.replace(".","-",1)
+
+#immutable => cannot be changed , common immutable types => int, float, str, tuple
+
+# The code produces an error because the list summer_months has three elements, indexed from 0 to 2, so attempting to access index 3 results in an "index out of range" error. Understanding list indexing is crucial for working with arrays or lists in programming.
+
+'''contents = ["hi","this is harini", "who are you?"]
+filenames = ["doc.txt","report.txt","presentation.txt"]
+for content, filename in zip(contents,filenames): #zip just like enumerate
+    file=open(f"../files/{filename}")
+    file.write(content)
+
+file=open('essay.txt','r')
+content=file.read()
+file.close()
+noofchar=len(content)
+message=f"The file contains {noofchar} characters."
+print(message)
+
+#creating a text file
+file=open('file.txt','w')
+text="snail"
+file.write(text)
+file.close()
+
+countries = ["Albania", "Belgium", "Canada", "Denmark", "Ethiopia", "France"]
+filenames = ['a.txt', 'b.txt', 'c.txt', 'd.txt', 'e.txt', 'f.txt']
+for content,filename in zip(countries,filenames):
+    file=open(filename,'w')
+    file.write(content)
+    file.close()
+    
+countries = ["Albania", "Belgium", "Canada", "Denmark", "Ethiopia", "France"]
+for content, country in zip(countries,countries):
+    file=open(f"{country}.txt",'w')
+    file.write(content)
+    file.close()
+
+file = open("home.html", 'w')
+file.write("<html>\n <h1>This is the home page</h1>\n</html>")
+file.close()
+The code above would create an HTML file. The content we wrote in that file is HTML code, and HTML code is just non-binary content (i.e., text,.txt, .csv, .py, .html, .json).
+examples of binary files are .xlsx, .mp4, .docx, and other files whose content cannot be correctly handled through a text editor. Such files need specific programs (i.e., Excel, Media Player, Microsoft Word, etc.) that let users edit and view such files. Therefore, you cannot view the content of such files in Python either. That being said, it is still possible to use the Python open function to handle such files. However, the use cases of handling binary files are specific and rare. Therefore we will not cover the handling of binary files right now and will focus on more crucial features of the language instead.
+
+date=input("enter today's date:")
+mood=input("how do you rate your mood from 1 to 10?:")
+thoughts=input("Let your thoughts flow: \n")
+
+with open(f"../journal/{data}.txt") as file:
+    file.write(mood)
+    file.write(thoughts)
+
+#MVP => fixing bugs, improve feature, code optimization
+'''

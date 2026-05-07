@@ -1,0 +1,4 @@
+make soup
+buy grocery
+cook food
+clean room
