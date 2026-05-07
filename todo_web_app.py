@@ -11,7 +11,7 @@ def write_todos(filepath, todos_arg):
     with open(filepath, "w") as file:
         file.writelines(todos_arg)
 
-FILEPATH = "C:\\Users\\harin\\Desktop\\Newt Global\\apps\\todoapp\\todos.txt"
+FILEPATH = "todos.txt"
 todos =get_todos(FILEPATH)
 
 def add_todo():
