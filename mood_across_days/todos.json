@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "text": "watch a movie1",
+    "completed": true,
+    "priority": "Medium",
+    "created_date": "2026-05-16 18:10"
+  },
+  {
+    "id": 3,
+    "text": "go for a walk",
+    "completed": false,
+    "priority": "Low",
+    "created_date": "2026-05-16 18:11"
+  }
+]
