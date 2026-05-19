@@ -26,13 +26,6 @@ python main.py
 
 Open your browser and go to `http://127.0.0.1:5000`
 
-## Usage
-
-1. Type your message in input box
-2. Press Enter or click "Send" to chat
-3. Use "Clear" to reset the conversation
-4. Enjoy fast, intelligent responses!
-
 ## Project Structure
 
 ```
