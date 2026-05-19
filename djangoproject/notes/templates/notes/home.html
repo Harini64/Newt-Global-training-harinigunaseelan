@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Notes App</title>
+</head>
+<body>
+
+<h1>My Notes</h1>
+
+{% for note in notes %}
+    <div>
+        <h3>{{ note.title }}</h3>
+        <p>{{ note.content }}</p>
+
+        {% if note.important %}
+            <strong>Important</strong>
+        {% endif %}
+    </div>
+    <hr>
+{% endfor %}
+
+</body>
+</html>
