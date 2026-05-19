@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "text": "make soup",
+    "completed": false,
+    "priority": "High",
+    "created_date": "2026-05-12 22:33"
+  },
+  {
+    "id": 2,
+    "text": "clean house",
+    "completed": false,
+    "priority": "High",
+    "created_date": "2026-05-12 22:33"
+  },
+  {
+    "id": 3,
+    "text": "clean garden",
+    "completed": false,
+    "priority": "Low",
+    "created_date": "2026-05-12 22:33"
+  },
+  {
+    "id": 4,
+    "text": "buy grocery",
+    "completed": false,
+    "priority": "Medium",
+    "created_date": "2026-05-12 22:34"
+  }
+]
