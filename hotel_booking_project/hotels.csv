@@ -1,0 +1,147 @@
+id,name,city,capacity,available
+1001,Marina Bay Stay,Chennai,4,no
+1002,T Nagar Grand,Chennai,5,no
+1003,OMR Tech Inn,Chennai,2,yes
+1004,Velachery Comfort,Chennai,3,yes
+1005,Adyar Garden Hotel,Chennai,2,yes
+1006,Anna Nagar Residency,Chennai,2,yes
+1007,ECR Sea Breeze,Chennai,2,yes
+1008,Guindy Business Suites,Chennai,2,yes
+1009,Mylapore Heritage Inn,Chennai,5,yes
+1010,Porur Lake View,Chennai,2,no
+1011,Nungambakkam Plaza,Chennai,3,yes
+1012,Tambaram Transit Hotel,Chennai,4,yes
+1013,Besant Beach House,Chennai,5,yes
+1014,Kodambakkam Studio Stay,Chennai,5,yes
+1015,Mount Road Elite,Chennai,6,yes
+1016,Marine Drive Residency,Mumbai,5,yes
+1017,Bandra Boutique Hotel,Mumbai,3,yes
+1018,Andheri Airport Inn,Mumbai,4,yes
+1019,Juhu Beach Retreat,Mumbai,3,no
+1020,Powai Lake Suites,Mumbai,4,yes
+1021,Colaba Heritage Stay,Mumbai,4,yes
+1022,Dadar Central Hotel,Mumbai,6,yes
+1023,Worli Sea View,Mumbai,3,yes
+1024,Thane Comfort Inn,Mumbai,1,yes
+1025,Navi Mumbai Business Hotel,Mumbai,4,yes
+1026,Lower Parel Grand,Mumbai,3,no
+1027,Goregaon Expo Stay,Mumbai,1,yes
+1028,Chembur Urban Nest,Mumbai,2,yes
+1029,Malad Sky Hotel,Mumbai,5,yes
+1030,Borivali Park Inn,Mumbai,6,yes
+1031,Indiranagar Urban Stay,Bangalore,2,yes
+1032,Whitefield Tech Suites,Bangalore,4,yes
+1033,Koramangala Comfort,Bangalore,3,yes
+1034,MG Road Grand,Bangalore,1,yes
+1035,Electronic City Inn,Bangalore,1,yes
+1036,HSR Layout Residency,Bangalore,2,yes
+1037,Jayanagar Heritage Hotel,Bangalore,3,yes
+1038,Hebbal Lake View,Bangalore,1,yes
+1039,Marathahalli Business Stay,Bangalore,6,yes
+1040,Yelahanka Garden Inn,Bangalore,4,yes
+1041,BTM Budget Stay,Bangalore,4,yes
+1042,Rajajinagar Palace,Bangalore,2,yes
+1043,Bellandur Cloud Hotel,Bangalore,5,no
+1044,Malleshwaram Classic,Bangalore,6,no
+1045,Banashankari Cozy Rooms,Bangalore,1,yes
+1046,Hitech City Residency,Hyderabad,2,yes
+1047,Banjara Hills Grand,Hyderabad,2,no
+1048,Gachibowli Tech Inn,Hyderabad,4,yes
+1049,Secunderabad Central,Hyderabad,4,yes
+1050,Jubilee Hills Elite,Hyderabad,4,yes
+1051,Charminar Heritage Stay,Hyderabad,4,yes
+1052,Madhapur Business Suites,Hyderabad,5,yes
+1053,Begumpet Comfort Hotel,Hyderabad,4,yes
+1054,Kondapur Urban Nest,Hyderabad,2,yes
+1055,Ameerpet Budget Inn,Hyderabad,5,yes
+1056,Connaught Place Grand,Delhi,3,yes
+1057,Karol Bagh Stay,Delhi,4,yes
+1058,Saket Comfort Hotel,Delhi,2,yes
+1059,Dwarka Airport Inn,Delhi,4,yes
+1060,Rohini Residency,Delhi,2,yes
+1061,Hauz Khas Boutique,Delhi,4,yes
+1062,Lajpat Nagar Inn,Delhi,3,yes
+1063,Chanakyapuri Elite,Delhi,2,yes
+1064,Paharganj Budget Stay,Delhi,1,yes
+1065,Nehru Place Business Hotel,Delhi,3,yes
+1066,Calangute Beach Resort,Goa,3,no
+1067,Baga Sea Breeze,Goa,2,yes
+1068,Panaji City Hotel,Goa,2,yes
+1069,Candolim Palm Stay,Goa,2,no
+1070,Anjuna Sunset Inn,Goa,2,no
+1071,Margao Comfort,Goa,1,yes
+1072,Vasco Airport Stay,Goa,3,yes
+1073,Morjim Blue Resort,Goa,6,no
+1074,Park Street Grand,Kolkata,3,yes
+1075,Salt Lake Residency,Kolkata,3,no
+1076,Howrah Transit Inn,Kolkata,3,yes
+1077,New Town Business Suites,Kolkata,4,yes
+1078,Ballygunge Heritage Stay,Kolkata,2,yes
+1079,Dum Dum Airport Hotel,Kolkata,4,yes
+1080,Esplanade Comfort,Kolkata,4,yes
+1081,Gariahat Boutique,Kolkata,5,yes
+1082,Hinjewadi Tech Inn,Pune,5,yes
+1083,Koregaon Park Boutique,Pune,3,yes
+1084,Viman Nagar Airport Stay,Pune,2,yes
+1085,Shivaji Nagar Central,Pune,4,yes
+1086,Kharadi Business Suites,Pune,2,yes
+1087,Baner Urban Stay,Pune,4,yes
+1088,Wakad Comfort Hotel,Pune,2,yes
+1089,Aundh Garden Inn,Pune,4,yes
+1090,Gandhipuram Residency,Coimbatore,3,yes
+1091,RS Puram Comfort,Coimbatore,1,no
+1092,Peelamedu Business Inn,Coimbatore,1,yes
+1093,Race Course Elite,Coimbatore,4,yes
+1094,Saibaba Colony Stay,Coimbatore,2,yes
+1095,Singanallur Transit Hotel,Coimbatore,3,yes
+1096,Meenakshi Heritage Inn,Madurai,2,no
+1097,KK Nagar Comfort,Madurai,6,yes
+1098,Tallakulam Residency,Madurai,4,yes
+1099,Mattuthavani Transit Stay,Madurai,1,yes
+1100,Anna Nagar Madurai Hotel,Madurai,4,yes
+1101,Bypass Road Suites,Madurai,4,yes
+1102,Chennai Premium Stay 1,Chennai,6,no
+1103,Chennai Royal Stay 2,Chennai,3,yes
+1104,Chennai Family Stay 3,Chennai,6,yes
+1105,Chennai Central Stay 4,Chennai,4,yes
+1106,Chennai Executive Stay 5,Chennai,4,yes
+1107,Chennai Premium Stay 6,Chennai,4,no
+1108,Chennai Central Stay 7,Chennai,4,yes
+1109,Chennai Business Stay 8,Chennai,3,yes
+1110,Chennai Royal Stay 9,Chennai,5,yes
+1111,Chennai Budget Stay 10,Chennai,3,yes
+1112,Chennai Metro Stay 11,Chennai,2,no
+1113,Chennai Metro Stay 12,Chennai,6,yes
+1114,Chennai Metro Stay 13,Chennai,5,yes
+1115,Chennai Urban Stay 14,Chennai,2,yes
+1116,Chennai Urban Stay 15,Chennai,2,yes
+1117,Mumbai Urban Stay 1,Mumbai,2,yes
+1118,Mumbai Business Stay 2,Mumbai,3,yes
+1119,Mumbai Executive Stay 3,Mumbai,5,yes
+1120,Mumbai Comfort Stay 4,Mumbai,6,yes
+1121,Mumbai Comfort Stay 5,Mumbai,5,yes
+1122,Mumbai Urban Stay 6,Mumbai,6,no
+1123,Mumbai Central Stay 7,Mumbai,4,yes
+1124,Mumbai Royal Stay 8,Mumbai,6,yes
+1125,Mumbai Comfort Stay 9,Mumbai,4,yes
+1126,Mumbai Business Stay 10,Mumbai,6,no
+1127,Mumbai Budget Stay 11,Mumbai,4,yes
+1128,Mumbai Business Stay 12,Mumbai,5,yes
+1129,Mumbai Urban Stay 13,Mumbai,3,no
+1130,Mumbai Executive Stay 14,Mumbai,4,yes
+1131,Mumbai Premium Stay 15,Mumbai,5,no
+1132,Bangalore Executive Stay 1,Bangalore,2,no
+1133,Bangalore Budget Stay 2,Bangalore,4,no
+1134,Bangalore Central Stay 3,Bangalore,3,yes
+1135,Bangalore Family Stay 4,Bangalore,5,yes
+1136,Bangalore Central Stay 5,Bangalore,5,yes
+1137,Bangalore Executive Stay 6,Bangalore,2,yes
+1138,Bangalore Central Stay 7,Bangalore,5,yes
+1139,Bangalore Comfort Stay 8,Bangalore,6,no
+1140,Bangalore Urban Stay 9,Bangalore,6,no
+1141,Bangalore Comfort Stay 10,Bangalore,3,yes
+1142,Bangalore Comfort Stay 11,Bangalore,6,yes
+1143,Bangalore Metro Stay 12,Bangalore,5,no
+1144,Bangalore Family Stay 13,Bangalore,3,yes
+1145,Bangalore Premium Stay 14,Bangalore,6,no
+1146,Bangalore Premium Stay 15,Bangalore,5,yes
